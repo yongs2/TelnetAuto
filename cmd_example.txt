@@ -1,0 +1,9 @@
+# Command List
+#
+# Format
+#---------------------------------
+# 'Command',	'Wait Message' or
+
+'ls -la' ,				' ~]'
+'df -k' ,				' ~]'
+'exit' ,				''
